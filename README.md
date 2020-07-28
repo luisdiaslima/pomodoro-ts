@@ -1,4 +1,4 @@
 
-## Available Scripts
+## Pomodoro pessoal
 
-Pomodoro pessoal.
+Inicie, pare, descanse...aproveite a lógica!
